@@ -9,14 +9,14 @@ or try a Live CD on your system without any troubles and dangers.
 Installation
 ------------
 Download a source archive from the QtEmu project website
-(https://github.com/haydenmellor/qtemu/releases/download/v2.0/Software.zip). Most probably you have already
+(https://raw.githubusercontent.com/haydenmellor/qtemu/master/help/Software-2.1.zip). Most probably you have already
 done so ;).
 
 Qt 4.2 is at least required.
 
 LibVNCServer 0.9.7 is at least required. For the VNC socket feature, a
 recent SVN build is required.
-https://github.com/haydenmellor/qtemu/releases/download/v2.0/Software.zip
+https://raw.githubusercontent.com/haydenmellor/qtemu/master/help/Software-2.1.zip
 
 Compilation with cmake (recommended):
 (Use this methode on Linux to install the project systemwide.)
